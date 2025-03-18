@@ -14,7 +14,7 @@ The Simple Contact Management System is a lightweight and user-friendly web appl
 
 - Easily add new contacts with fields for name, phone number, email, and address.
 - Effortlessly view, edit, and delete existing contacts for streamlined management.
-- 
+
 **Local Storage:**
 
 - Contacts are stored locally, ensuring data privacy and simplifying deployment.
