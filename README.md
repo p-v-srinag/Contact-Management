@@ -1,7 +1,7 @@
 
 # Contact Management System
 
-The Simple Contact Management System is a lightweight and user-friendly web application tailored for efficient contact information management. Developed using HTML, CSS, and PHP, this system provides a straightforward solution, prioritizing ease of use for individuals or small teams.
+The Simple Contact Management System is a lightweight and user-friendly web application tailored for efficient contact information management. Developed using HTML, CSS, and PHP, this system provides a straightforward solution, prioritizing ease of use for individuals or small teams.With Clear and use full interface.For database you can use any one either Postgresql or Mysql but you need to update the password and id of SQL Server in PHP code.
 
 # Key Features:
 
@@ -14,6 +14,7 @@ The Simple Contact Management System is a lightweight and user-friendly web appl
 
 - Easily add new contacts with fields for name, phone number, email, and address.
 - Effortlessly view, edit, and delete existing contacts for streamlined management.
+- 
 **Local Storage:**
 
 - Contacts are stored locally, ensuring data privacy and simplifying deployment.
@@ -26,6 +27,7 @@ The Simple Contact Management System is a lightweight and user-friendly web appl
 **Responsive Design:**
 
 - Basic responsiveness ensures a satisfactory experience on various screen sizes.
+- 
 **Technologies Used:**
 
 - *HTML*: Provides the structure of the web pages.
