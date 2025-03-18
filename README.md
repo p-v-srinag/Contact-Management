@@ -27,7 +27,7 @@ The Simple Contact Management System is a lightweight and user-friendly web appl
 **Responsive Design:**
 
 - Basic responsiveness ensures a satisfactory experience on various screen sizes.
-- 
+  
 **Technologies Used:**
 
 - *HTML*: Provides the structure of the web pages.
